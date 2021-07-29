@@ -1,6 +1,7 @@
 package sendemail;
 
 import java.util.Properties;
+
 import javax.mail.Authenticator;
 import javax.mail.Message;
 import javax.mail.MessagingException;
@@ -27,7 +28,7 @@ public class Sendmail {
 	       
 	       
 	        final String myAccount = "psk30198@gmail.com";// set from mail id 
-	        final String password="**********";//set password of mail id
+	        final String password="*******";//set password of mail id
 	     
 
 	       
